@@ -1,4 +1,4 @@
-# Pivter
+# Pivterdash
 
 A dashboard to track git merges and pivotal cards
 
